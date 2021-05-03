@@ -89,7 +89,6 @@ def chute(letras):
         else:
             return letra
 
-
 def jogar_novamente():
    print()
    op = input('Deseja jogar novamente? (s/n)').lower()
@@ -97,7 +96,6 @@ def jogar_novamente():
         exit()
    else:
         return op
-
 
 def ganhou():
     return set(sorteada) == set(certas)
