@@ -57,7 +57,7 @@ canva = ['''
          ''']
 certas = erradas = ''
 import requests
-url = 'https://www.dicio.com.br/lista-de-palavras/'
+url = 'https://www.ime.usp.br/~pf/dicios/br-sem-acentos.txt'
 palavras = requests.get(url).text.lower().split()
 
 from random import choice
