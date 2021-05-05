@@ -91,7 +91,7 @@ def chute(letras):
 
 def jogar_novamente():
    print()
-   op = input('Deseja jogar novamente? (s/n)').lower()
+   op = input('Deseja jogar novamente? (s/n) ').lower()
    if op == 'n':
         exit()
    else:
