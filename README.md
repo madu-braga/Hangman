@@ -13,7 +13,7 @@
 
 ## 🎨 Layout
 <p align="left">
-      <img src="1.jpg" width="260"> &nbsp; &nbsp; 
+      <img src="/imagens/1.jpg" width="260"> &nbsp; &nbsp; 
       <img src="2.jpg" width="360"> &nbsp; &nbsp; 
       
 ## ⚖️ Licença
