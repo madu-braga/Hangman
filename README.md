@@ -1,4 +1,4 @@
-<h1 align="center"> Forca </h1>
+<h1 align="center"> Hangman </h1>
 <p align="center">Programação do jogo
 
 ## 🎯 Funcionalidades
