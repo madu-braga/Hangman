@@ -1,5 +1,5 @@
 <h1 align="center"> Hangman </h1>
-<p align="center">Programação do jogo
+<p align="center">Game Programming
 
 ## 🎯 Funcionalidades
 ✔️ O programa permite ao usuário jogar a Forca com alguma palavra sorteada na hora; <br>
