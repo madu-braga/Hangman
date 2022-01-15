@@ -1,25 +1,25 @@
 <h1 align="center"> Hangman </h1>
 <p align="center">Game Programming
 
-## 🎯 Funcionalidades
-✔️ O programa permite ao usuário jogar a Forca com alguma palavra sorteada na hora; <br>
-✔️ O programa permite ao usuário jogar quantas vezes desejar; <br>
-✔️ O programa reconhece as repetições de letras, entrada de símbolos e números; <br>
-✔️ O programa atualiza o estado conforme o progresso do jogador; <br>
-✔️ Ao final do jogo, a palavra correta é exibida.
+## 🎯 Functionalities
+✔️ The program allows the user to play Hangman with a randomly selected word; <br>
+✔️ The program allows the user to play as many times as he wants; <br>
+✔️ The program recognizes repetitions of letters, input of symbols and numbers; <br>
+✔️ The program updates the state as the player progresses; <br>
+✔️ At the end of the game, the correct word is displayed.
 
-## 🚀 Linguagens
-✔️ Foi utilizado Python em todo o projeto.
+## 🚀 Languages
+✔️ Python.
 
 ## 🎨 Layout
 <p align="left">
       <img src="Imagens/1.jpg" width="260"> &nbsp; &nbsp; 
       <img src="Imagens/2.jpg" width="360"> &nbsp; &nbsp; 
       
-## ⚖️ Licença
+## ⚖️ License
 ✔️ MIT License.
 
-## 🔥 Sobre mim 
+## 🔥 About Myself
   <div>
   <a href = "https://mail.google.com/mail/u/1/#inbox"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
