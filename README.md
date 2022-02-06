@@ -3,8 +3,8 @@
 
 ## 🎯 Functionalities
 ✔️ The program allows the user to play Hangman with a randomly selected word; <br>
-✔️ The program allows the user to play as many times as he wants; <br>
-✔️ The program recognizes repetitions of letters, input of symbols and numbers; <br>
+✔️ The code allows the user to play as many times as he wants; <br>
+✔️ The code recognizes repetitions of letters, input of symbols and numbers; <br>
 ✔️ The program updates the state as the player progresses; <br>
 ✔️ At the end of the game, the correct word is displayed.
 
